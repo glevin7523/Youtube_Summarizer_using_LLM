@@ -24,7 +24,7 @@ This AI-powered **YouTube Video Summarizer & Q&A** tool can:
 ---
 
 ## **📸 Demo Screenshot**
-![App Screenshot](https://your-image-url.com) *(Replace with actual image)*  
+![App Screenshot]image.png   
 
 ---
 
