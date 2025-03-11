@@ -24,7 +24,7 @@ This AI-powered **YouTube Video Summarizer & Q&A** tool can:
 ---
 
 ## **📸 Demo Screenshot**
-![App Screenshot]image.png   
+![App Screenshot]https://github.com/glevin7523/Youtube_Summarizer_using_LLM/blob/main/image.png  
 
 ---
 
