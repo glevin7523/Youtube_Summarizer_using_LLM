@@ -11,7 +11,7 @@ import torch
 import re
 
 # Configure Gemini API
-genai.configure(api_key="AIzaSyA2N47LKWm5HSEf2HK-cJ0ErwNW2d4EFqE")  # Replace with your actual API key
+genai.configure(api_key="Replace with your actual API key")
 
 # Load Whisper Model (Fastest on GPU)
 device = "cuda" if torch.cuda.is_available() else "cpu"
